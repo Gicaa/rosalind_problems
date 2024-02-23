@@ -10,4 +10,3 @@ def hammingDistance(s, t):
     return mutation
 
 print(hammingDistance(s, t))
-
